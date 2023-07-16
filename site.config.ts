@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)åå
-  name: 'yuseok',
+  name: 'YuSeok',
   domain: 'yuseok.vercel.app',
-  author: 'yuseok',
+  author: 'YuSeok',
 
   description: "yuseok's Notion blog",
   // socialImageTitle: 'HM_dev',
