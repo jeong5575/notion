@@ -56,7 +56,7 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'About me',
-      pageId: 'a32a59aec23c41e08452757e94d96418',
+      pageId: '6a1442382dcf4f3fac44dd19faa7a630',
     },
     // {
     //   title: 'Category',
