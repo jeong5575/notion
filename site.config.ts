@@ -9,19 +9,19 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)åå
-  name: 'hm_dev',
-  domain: 'hmdev.vercel.app',
-  author: 'hanmil lee',
+  name: 'yuseok',
+  domain: 'yuseok.vercel.app',
+  author: 'yuseok',
 
-  description: "Hanmil's Notion blog",
+  description: "yuseok's Notion blog",
   // socialImageTitle: 'HM_dev',
   // socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
-  github: 'hanmilLee',
-  linkedin: 'hanmil-lee-828a57187',
-  instagram: '2hanmil',
+  github: 'jeong5575',
+  //linkedin: 'hanmil-lee-828a57187',
+  instagram: 'jeong.u.seok_',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
@@ -69,7 +69,7 @@ export default siteConfig({
   // // Utteranc.es comments via GitHub issue comments (optional)
   // utterancesGitHubRepo: 'hanmilLee/nextjs-notion-starter-kit',
 
-  GiscusGitHubRepo: `hanmilLee/Notion-Next.js-blog-starter-kit`,
+  GiscusGitHubRepo: `jeong5575/blog-comments`,
 
   // date-fns format string
   dateformat: 'yyyy년 MM월 dd일',
