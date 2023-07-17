@@ -358,28 +358,28 @@ body {
     }
   }
 
-  // 인라인코드
-  .notion-inline-code {
-    font-weight: 400;
-    font-family: var(--notion-font);
-    letter-spacing: 0;
-    background-color: transparent !important;
-    position: relative;
-    z-index: 0;
-    background-color: var(--fg-color-lighten) !important;
-    transition: 250ms background-color;
-  }
+  // // 인라인코드
+  // .notion-inline-code {
+  //   font-weight: 400;
+  //   font-family: var(--notion-font);
+  //   letter-spacing: 0;
+  //   background-color: transparent !important;
+  //   position: relative;
+  //   z-index: 0;
+  //   background-color: var(--fg-color-lighten) !important;
+  //   transition: 250ms background-color;
+  // }
 
-  // 코드
-  .notion-code {
-    .notion-code-copy {
-      top: 0.7rem;
+  // // 코드
+  // .notion-code {
+  //   .notion-code-copy {
+  //     top: 0.7rem;
 
-      .notion-code-copy-button {
-        display: block;
-      }
-    }
-  }
+  //     .notion-code-copy-button {
+  //       display: block;
+  //     }
+  //   }
+  // }
 
   // 구분선
   .notion-hr {
