@@ -10,10 +10,10 @@ export default siteConfig({
 
   // basic site info (required)åå
   name: 'YuSeok',
-  domain: 'yuseok.vercel.app',
+  domain: 'Yuseok.vercel.app',
   author: 'YuSeok',
 
-  description: "yuseok's Notion blog",
+  description: "Yuseok's Notion blog",
   // socialImageTitle: 'HM_dev',
   // socialImageSubtitle: 'Hello World! 👋',
 
